@@ -3,7 +3,7 @@
  * Não adicione senhas, tokens ou dados privados aqui.
  */
 window.SYN_CONFIG = {
-  whatsapp: '+5547996833443', // DDI + DDD + número, somente dígitos. Ex: '5547999999999'
+  whatsapp: '+5547984867409', // DDI + DDD + número, somente dígitos. Ex: '5547999999999'
   email: '', // Ex: 'contato@seudominio.com'
-  mensagemWhatsapp: 'Querer ganhar dinheiro nao quer né, mas me igonar nesta joça.'
+  mensagemWhatsapp: 'Olá, Tudo bom? Por gentileza, gostaria de solicitar um orçamento para o meu projeto.'
 };
